@@ -19,6 +19,14 @@ After 20 epochs of trainning using CorssEntropy Loss and Adam Optimizer, we have
 - validation loss: 0.4280
 - validation accuracy: 0.8971
 
+### Train/Validation Loss and Accuracy
+![Train, Validation Loss and Accuracy](https://github.com/xinrui-wang1/bird-classification/blob/main/figures/train_vs_val_loss_accuracy.png)
+
+### Sample Predictions
+![Sample Predictions](https://github.com/xinrui-wang1/bird-classification/blob/main/figures/sample_predictions.png)
+
+### Most Mispredicted Classes
+![Most Mispredicted Classes](https://github.com/xinrui-wang1/bird-classification/blob/main/figures/top_mispredicted.png)
 
 ## Requirement
 ## Usage
